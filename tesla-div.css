@@ -1,0 +1,268 @@
+.container{
+   
+    display: grid;
+    grid-template-rows: 587px  587px 587px 587px 587px 587px 587px 587px 587px 537px;
+    
+} 
+.box-one{
+   
+   background-image: url(Homepage-Model-3-Desktop-US\ \(1\).jpg);
+    width:100% ;
+    background-size: cover;
+    align-items: center;
+    display: grid;
+    grid-template-rows: 57px 30px 20px 30px;
+    display: inline;
+    
+    
+
+}
+.nav{
+    vertical-align: top;
+    height: 57px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+   
+    
+}
+
+
+.main-features{
+    display: grid;
+    grid-template-columns: 87px 87px 97px 91px 91px;
+    margin-left: 120px;
+    margin-top: 17px;;
+}
+
+.features{
+   
+  display: inline;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: .5px;
+  margin-left: 17px;
+  border-radius: 3px;
+  text-align: center;
+  height: 20px;
+  
+
+
+}
+.features:hover{
+  background: rgb(225, 222, 222);
+
+}
+
+.menu{
+  
+  width: 103px;
+  margin-left: 184px;
+  margin-top: 18px;
+}
+
+.model{
+ 
+    height: 50px;
+    margin-top: 10px;
+    
+}
+.model-one{
+   
+  width: 100%;
+  margin-left: 547px;
+  font-weight: 600;
+  font-size: 56px;
+  }
+
+
+.date{
+
+    height: 37px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.date-one{
+
+  width: 523px;
+  margin-left: 407px;
+  font-weight: bold;
+  font-size: 27px;
+  margin-top: 21px;
+}
+
+.price{
+  height: 35px;
+  margin-top: -15px;
+}
+.price-p{
+  margin-left: 580px;
+  width: 133px;
+  font-size: 16px;
+  font-weight: bold;
+ 
+}
+.button{
+  margin-top: 294px;
+  height: 40px;
+  }
+  .button-one{
+    width: 73%;
+    margin-left: 356px;
+  }
+ 
+
+.box-two{
+   
+  background-image: url(Homepage-Model-Y-Desktop-US-v2.jpg);
+  width: 100%;
+  background-size: cover;
+    align-items: center;
+    display: grid;
+    grid-template-rows: 57px 30px 20px 30px;
+    display: inline;
+    
+} 
+.space{
+  height: 57px;
+}
+.box-three{
+  background-image: url(Model-X-.jpg);
+  width: 100%;
+  background-size: cover;
+    align-items: center;
+    display: grid;
+    grid-template-rows: 57px 30px 20px 30px;
+    display: inline;
+}  
+.date-X{
+  margin-left: 10px;
+  width: 523px;
+  margin-left: 554px;
+  font-weight: bold;
+  font-size: 27px;
+  margin-top: 21px;
+}
+.price-X{
+  margin-left: 524px;
+  width: 353px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+
+
+.box-four{
+  background-image: url(Homepage-Model-S-Desktop-US.jpg);
+  width: 100%;
+  background-size: cover;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 57px 30px 20px 30px;
+  display: inline;
+}  
+
+.box-five{
+  background-image: url(Homepage-Cybertruck-Desktop.jpg);
+  width: 100%;
+  background-size: cover;
+  align-items: center;
+}
+.cyber-nav{
+
+  height: 100px;
+  margin-top: 45px;
+}
+.button-cyber{
+
+  width: 73%;
+  margin-left: 305px;
+  margin-top: 294px;
+  height: 40px;
+  
+}
+.bar-button{
+  background-color: rgb(145, 154, 162);
+  width: 256px;
+  height: 3px;
+  margin-left: 20px;
+}
+.box-six{
+background-image: url(Homepage-SolarPanels-01-Desktop.jpg);
+width: 100%;
+  background-size: cover;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 57px 30px 20px 30px;
+  display: inline;
+}
+.model-solar{
+  width: 1279px;
+  margin-top: 0px;
+
+}
+.solar-price{
+ 
+  width: 523px;
+  margin-left: 448px;
+  font-weight: bold;
+  font-size: 27px;
+  margin-top: -4px;
+}
+.model-solar{
+width: 100%;
+  margin-left: 243px;
+  font-weight: 600;
+  font-size: 56px;
+}
+.button-solar{
+margin-top: 346px;
+height: 40px;
+width: 73%;
+margin-left: 356px;
+}
+.box-seven{
+  background-image: url(Homepage-SolarRoof-Desktop-US.jpg);
+  width: 100%;
+  background-size: cover;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 57px 30px 20px 30px;
+  display: inline;
+}
+.roof-price{
+  width: 523px;
+  margin-left: 400px;
+  font-weight: bold;
+  font-size: 27px;
+  margin-top: -4px;
+}
+.box-eight{
+background-image: url(Homepage-Powerwall-Desktop-US.jpg);
+width: 100%;
+background-size: cover;
+align-items: center;
+display: grid;
+grid-template-rows: 57px 30px 20px 30px;
+display: inline;
+}
+.box-nine{
+  background-image: url(Homepage-Accessories-Desktop-US.jpg);
+  width: 100%;
+  background-size: cover;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 57px 30px 20px 30px;
+  display: inline;
+  }
+  .button-Accessories{
+    margin-top: 346px;
+height: 40px;
+width: 73%;
+margin-left: 510px;
+  }
+  .box-ten{
+    background-color: black;
+    width: 100;
+ 
+  }

@@ -1,0 +1,111 @@
+
+body{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+   
+    font-weight: bold;
+}
+.img-logo{
+    width: 134px;
+    margin-top: 20px;
+    margin-left: 42px;
+}
+.img-menu{
+    width: 29px;
+}
+.order{
+    background-color: rgb(44, 115, 222);
+    width: 256px;
+    height: 43px;
+    border-radius: 4px;
+    border: 0;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 11px;cursor: pointer;
+
+}
+.demo{
+    background-color: aliceblue;
+    color: black;
+    width: 256px;
+    height: 43px;
+    border-radius: 4px;
+    border: 0;
+    margin-left: 20px;
+    font-size: 11px;
+    font-size: 11px;cursor: pointer;
+    bottom:10px;
+
+}
+.cyber-logo{
+    width: 302px;
+    margin-left: 469px;
+}
+.cyber-order{
+    color: rgb(145, 154, 162);
+    background-color:rgba(0, 0, 0, 0.662);
+    width: 256px;
+    height: 40px;
+    border: 0; 
+    margin-left: 20px;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: .5;
+}
+.cyber-demo{
+    color: rgb(145, 154, 162);
+    background-color: rgba(0, 0, 0, 0.662);
+    width: 256px;
+    height: 43px;
+    border-width: .009px;
+    border-color:rgba(145, 154, 162, 0.719); ;
+    margin-left: 20px;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: .5;
+}
+.order-Accessories{
+    background-color: rgb(44, 115, 222);
+    width: 256px;
+    height: 43px;
+    border-radius: 4px;
+    border: 0;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 11px
+}
+.about{
+    color: rgb(176, 182, 187);
+    text-align: center;
+    letter-spacing: .2;
+    font-size: 12px;
+    line-height: 19px;
+    
+
+
+} 
+.about-sup{
+    font-size: 7px;
+}
+.about-u{
+   color: rgb(222, 222, 222);
+   text-decoration: underline;
+   cursor: pointer;
+}
+
+.p-footer{
+    text-align: center;
+    font-size: 13px ;
+    letter-spacing: .4;
+    
+   
+
+}
+.span-footer{
+    margin-left: 10px;
+   color:  rgb(176, 182, 187);
+
+    
+}
+
